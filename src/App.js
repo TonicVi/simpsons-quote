@@ -1,13 +1,15 @@
 import React from 'react';
 import Navbar from './components/Navbar'
-import './components/Navbar.css'
+import QuoteCard from './components/QuoteCard'
  
 
 function App() {
   return (
-    <div className="Navbar">
+    <div>
       <Navbar />
+      <QuoteCard />
     </div>
+
   );
 }
 

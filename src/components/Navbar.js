@@ -1,9 +1,9 @@
 import React from 'react';
-
+import './Navbar.css'
 function Navbar() {
     return (
-        <nav>
-            <a href="https://en.wikipedia.org/wiki/The_Simpsons" className="Navbar">What you need to know</a>
+        <nav className="Navbar">
+            <a href="https://en.wikipedia.org/wiki/The_Simpsons">What you need to know</a>
         </nav>
     )
 }
