@@ -20,3 +20,25 @@
 .App-link {
   color: #09d3ac;
 }
+
+.star-firstName {
+  color: #ff007f;
+} 
+.star-lastName {
+  animation: flash 0.2s linear infinite;
+  }
+  @keyframes flash {
+    from {color: black}
+    to {color: #0339f8}
+  }
+  
+  @keyframes blinker {
+    50%{
+      opacity: 0;
+    }
+  }
+
+.star-img {
+  background-color: peachpuff;
+  animation: blinker 2s linear infinite
+}

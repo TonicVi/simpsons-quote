@@ -1,0 +1,12 @@
+{/* <Avatar 
+      image="https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FNelsonMuntz.png?1497567511185"
+      firstName="Nelson"
+      lastName="Muntz"/>
+      <Avatar 
+      image="https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FLisaSimpson.png?1497567512083"
+      firstName="Lisa"
+      lastName="Simpson"/>
+      <Avatar 
+      image="https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FHomerSimpson.png?1497567511939"
+      firstName="Homer"
+      lastName="Simpson"/>  */}
